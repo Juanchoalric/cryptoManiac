@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "1040937267053",
+    "firebase_url": "https://cryptomaniac-666f7.firebaseio.com",
+    "project_id": "cryptomaniac-666f7",
+    "storage_bucket": "cryptomaniac-666f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040937267053:android:3cb88100fafc2855",
+        "android_client_info": {
+          "package_name": "com.yourcompany.cryptocurrences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040937267053-d4nlc7k7gb7o4nrd2lvpvgpoetirkpnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.cryptocurrences",
+            "certificate_hash": "baffa7bc41208cec2f05ce3ef19d0ede5d94ebde"
+          }
+        },
+        {
+          "client_id": "1040937267053-lvo1uj4rpeofjs7e02t4mo3j9euesl5c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1040937267053-lvo1uj4rpeofjs7e02t4mo3j9euesl5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3UfgxQSwre0luhxZhvm--UZea6Pf9ZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040937267053-lvo1uj4rpeofjs7e02t4mo3j9euesl5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040937267053-7f3k2ss22jtfgl4ojmhud1lo3v869670.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourcompany.cryptocurrences"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
